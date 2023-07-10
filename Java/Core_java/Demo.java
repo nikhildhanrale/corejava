@@ -1,4 +1,4 @@
- package Java.Core_java;
+ package corejava.Java.Core_java;
  
  /**
   * Demo
